@@ -25,7 +25,7 @@ Several videos and blog posts have been written about Serena by now:
 #### On YouTube
 
 * [AI Labs](https://www.youtube.com/watch?v=wYWyJNs1HVk&t=1s)
-* [Yo Van Eyck](https://www.youtube.com/watch?v=UqfxuQKuMo8&t=45s)
+* [Jo Van Eyck](https://www.youtube.com/watch?v=UqfxuQKuMo8&t=45s)
 * [JeredBlu](https://www.youtube.com/watch?v=fzPnM3ySmjE&t=32s)
 
 #### On Blogs
